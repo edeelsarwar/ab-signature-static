@@ -24,26 +24,30 @@ const About = () => {
       {/* Story Section */}
       <section className="py-16 bg-white">
         <div className="container-custom">
-          <div className="max-w-4xl mx-auto">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
-            <div className="prose prose-lg text-gray-700 space-y-4">
-              <p>
-                AB-Signature was founded with a simple vision: to bring premium quality unstitched fabrics 
-                to customers who appreciate fine materials and exceptional craftsmanship. We understand that 
-                the right fabric is the foundation of any beautiful garment.
-              </p>
-              <p>
-                Our journey began with a passion for textiles and a commitment to sourcing the finest fabrics 
-                from trusted suppliers. Today, we're proud to offer a curated collection that ranges from 
-                everyday cotton to luxurious silk, each piece carefully selected for its quality and appeal.
-              </p>
-              <p>
-                What sets us apart is our dedication to customer satisfaction. We believe that shopping for 
-                fabric should be an enjoyable experience, which is why we've created a platform that makes 
-                browsing and ordering simple and convenient.
-              </p>
-            </div>
-          </div>
+        <div className="max-w-4xl mx-auto">
+  <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
+
+  <div className="prose prose-lg text-gray-700 space-y-4">
+    <p>
+      AB-Signature was founded by <strong>Adeel</strong> and <strong>Bilal</strong> with a simple vision: 
+      to bring premium quality unstitched fabrics to customers who appreciate fine materials and 
+      exceptional craftsmanship. We understand that the right fabric is the foundation of any beautiful garment.
+    </p>
+
+    <p>
+      Our journey began with a shared passion for textiles and a commitment to sourcing the finest fabrics 
+      from trusted suppliers. Today, we're proud to offer a curated collection that ranges from everyday cotton 
+      to luxurious silk — each piece carefully selected for its quality, comfort, and appeal.
+    </p>
+
+    <p>
+      What sets us apart is our dedication to customer satisfaction. We believe that shopping for fabric 
+      should be an enjoyable and seamless experience, which is why we've created a platform that makes 
+      browsing and ordering simple and convenient.
+    </p>
+  </div>
+</div>
+
         </div>
       </section>
 
